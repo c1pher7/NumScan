@@ -2,6 +2,11 @@
 ![Logo](Photos/Logo.jpg)
 NumScan is a simple, fast and practical tool to obtain information from any phone number
 # Info
+How to use:
+To put a phone number, you must first put the + in front and the country code, examples: (+55 | +1 | +91)
+_________________________
+After that, you can enter the telephone number in these two ways: (+5511912345678 | +55 11 912345678) see how many spaces you must enter according to the country corresponding to the telephone number!
+_________________________
 Works on:
  
  **[*] Termux ✓**
@@ -14,7 +19,7 @@ Works on:
  
  **[*] Windows (CMD) ❌**
 
-_______________________
+_________________________
 
 Information you will get with a phone number:
 
