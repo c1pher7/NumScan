@@ -18,10 +18,10 @@ _______________________
 
 Information you will get with a phone number:
 
-- National number format
-- International number format
-- country of the number
-- number region
-- if the number is valid
-- number carrier
+- Nacional format
+- International format
+- country
+- region
+**- see if it's valid**
+- carrier
 - time zone
