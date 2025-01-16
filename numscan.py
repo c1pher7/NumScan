@@ -1,5 +1,6 @@
 import phonenumbers
-from phonenumbers import geocoder, carrier, timezone                                                                                         from phonenumbers import *
+from phonenumbers import geocoder, carrier, timezone
+from phonenumbers import *
 import os
 import time
 from colorama import *
@@ -13,7 +14,7 @@ ascii_art = f"""
   _   _                  _____
  | \ | |                / ____|
  |  \| |_   _ _ __ ___ | (___   ___ __ _ _ __
- | . ` | | | | '_ ` _ \ \___ \ / __/ _` | '_ \
+ | . ` | | | | '_ ` _ \ \___ \ / __/ _` | '_ \ 
  | |\  | |_| | | | | | |____) | (__ (_| | | | |
  |_| \_|\__,_|_| |_| |_|_____/ \___\__,_|_| |_|
            {creator}
