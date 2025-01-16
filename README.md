@@ -1,4 +1,5 @@
 # NumScan
-NumScan is a simple and fast tool to obtain information from a telephone number
-# Info
 ![Logo](Photos/Logo.jpg)
+NumScan is a simple, fast and practical tool to obtain information from any phone number
+# Info
+
