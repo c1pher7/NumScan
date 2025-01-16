@@ -25,3 +25,12 @@ Information you will get with a phone number:
 - see if it's valid
 - carrier
 - time zone
+# Installation
+For Termux:
+```
+apt update && apt upgrade -y
+
+pkg install git
+
+pkg install python
+
