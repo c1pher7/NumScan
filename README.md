@@ -22,6 +22,6 @@ Information you will get with a phone number:
 - International format
 - country
 - region
-**- see if it's valid**
+- see if it's valid
 - carrier
 - time zone
