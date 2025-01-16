@@ -4,7 +4,11 @@ NumScan is a simple, fast and practical tool to obtain information from any phon
 # Info
 Works on:
  **[*] Termux ✓**
+ 
  **[*] Kali Linux ✓**
+ 
  **[*] Kali Nethunter ✓**
+ 
  **[*] Any other distro ✓**
+ 
  **[*] Windows (CMD) ❌**
